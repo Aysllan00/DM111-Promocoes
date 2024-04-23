@@ -70,6 +70,25 @@ The following entities are stored on the Firebase:
   ]
 }
 ```
+>Promoções
+```json
+{
+  "id": "uuid",
+  "name": "Nome da Promoção",
+  "starting": "dd/mm/yyyy",
+  "expiration": "dd/mm/yyyy",
+  "products": [
+  {
+     "productId": "id do produto",
+     "discount": 15 
+ },
+ {
+     "productId": "id do produto",
+     "discount": 15 
+ }
+ ]
+}
+```
 
 ### Firebase Cloud Message
 
