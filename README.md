@@ -2,9 +2,9 @@
 
 ## Project
 
-The project was split in two repositories, the [current one](https://github.com/edilsonjustiniano/dm111) (a.k.a DM111) 
-and the [DM111 Promo](https://github.com/edilsonjustiniano/dm111-promo) that will listen some notifications published
-by DM111 and apply some business logic based on the published/consumed events.
+The DM111-Promo project was developed as a logical extension of the DM111 project, with the purpose of listening to 
+notifications published by DM111 and applying business logic based on the published/consumed events. This results 
+in the need for users to request promotions on demand.
 
 ## Overview 
 
